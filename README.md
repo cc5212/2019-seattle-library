@@ -103,21 +103,31 @@ Luego con esto, se obtuvieron los Top 100 libros para cada mes y año respectivo
 
 ## Resultados
 
-//Detail* the results of the project. Different projects will have different types of results; e.g., run-times or result sizes, evaluation of the methods you're comparing, the interface of the system you've built, and/or some of the results of the data analysis you conducted.//
+### Préstamos anuales
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/ale.png)
+
+### Libros más solicitados Octubre 2017
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/loc.png)
+
+### Autores más leídos
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/ale.png)
+
+### Editoriales
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/edi.png)
+
+
+### Tópicos Recurrentes
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/tr.png)
 
 // Mostrar tamaño de cada tabla y ejemplos de los resultados importantes
 ## Conclusiones
 
-// explicar que es díficil ser creativo :/  trabajar con grandes datos requiere mucho tiempo e importante preocuparse del buen formato de los datos
-
 De acuerdo al conjunto de datos a utilizar en un proyecto de Big Data, es necesario tener un conocimiento previo del área a tratar o bien requerir de los servicios de un experto, pues de esta forma es posible obtener la mejor información posible para mejorar algún sistema o satisfacer las necesidades de un cliente.
 
-
-
-//Summarise main lessons learnt. What was easy? What was difficult? What could have been done better or more efficiently?//
-
-
-## Apéndice
-
-// You can use this for key code snippets that you don't want to clutter the main text. //
+El trabajo con gran cantidad de datos utilizando sistemas distribuidos en un clúster pequeño requiere optimizar lo mejor posible las consultas debido al tiempo de espera, que en general es grande, además de examinar los datos con anterioridad para saber a priori que datos están repetidos o tienen campos nulos.
 
