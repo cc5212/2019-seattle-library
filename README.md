@@ -108,9 +108,6 @@ Luego con esto, se obtuvieron los Top 100 libros para cada mes y año respectivo
 
 ## Resultados
 
-//Detail* the results of the project. Different projects will have different types of results; e.g., run-times or result sizes, evaluation of the methods you're comparing, the interface of the system you've built, and/or some of the results of the data analysis you conducted.//
-
-// Mostrar tamaño de cada tabla y ejemplos de los resultados importantes
 
 Los resultados de este proyecto corresponden a los chart top 100 de libros para cada mes, además de calcular las librerías con mayor cantidad de aparaciones en este top 100 y los autores más leídos. Sobre estos tops se pueden realizar otras operaciones como ver su género o descripción.
 
@@ -123,14 +120,37 @@ Se generan:
 | Top 100 Checkout por libro, mes, año + info del libro |  35 MB |
 | Tabla Ranking Autores 								|  20 KB |
 | Tabla  Ranking Publisher								|  15 KB |
+=======
+
+## Resultados
+
+### Préstamos anuales
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/ale.png)
+
+### Libros más solicitados Octubre 2017
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/loc.png)
+
+### Autores más leídos
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/ale.png)
+
+### Editoriales
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/edi.png)
+
+
+### Tópicos Recurrentes
+
+![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/tr.png)
 
 
 
-
-## Conclusión
-
-// explicar que es díficil ser creativo :/  trabajar con grandes datos requiere mucho tiempo e importante preocuparse del buen formato de los datos
-//Summarise main lessons learnt. What was easy? What was difficult? What could have been done better or more efficiently?//
+## Conclusiones
 
 
+De acuerdo al conjunto de datos a utilizar en un proyecto de Big Data, es necesario tener un conocimiento previo del área a tratar o bien requerir de los servicios de un experto, pues de esta forma es posible obtener la mejor información posible para mejorar algún sistema o satisfacer las necesidades de un cliente.
+
+El trabajo con gran cantidad de datos utilizando sistemas distribuidos en un clúster pequeño requiere optimizar lo mejor posible las consultas debido al tiempo de espera, que en general es grande, además de examinar los datos con anterioridad para saber a priori que datos están repetidos o tienen campos nulos.
 
