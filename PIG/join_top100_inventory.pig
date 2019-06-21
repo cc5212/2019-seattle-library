@@ -35,7 +35,7 @@ pop_author =  ORDER popular_author_sum BY checkouts DESC;
 pop_author = LIMIT  popular_author 100;
 
 popular_publisher_group = GROUP final_distinct BY publisher;
-popular_publisher_sum = foreach popular_publisher_group GENERATE FLATTEN(group) as (publisher), SUM($1.checkouts) as checkouts;
+popular_publisher_sum = foreach popular_publisher_group GENERATE FLATTEN(group) as (publisher), SUM($1.checkouts) as checkouts, COUNT($1);
 popular_publisher =  ORDER popular_publisher_sum BY checkouts DESC;
 pop_publisher = LIMIT  popular_publisher 100;
 
