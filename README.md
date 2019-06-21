@@ -124,7 +124,6 @@ Luego con esto, se obtuvieron los Top 100 libros para cada mes y año respectivo
 
 ![alt text](https://github.com/cc5212/2019-seattle-library/blob/master/tr.png)
 
-// Mostrar tamaño de cada tabla y ejemplos de los resultados importantes
 ## Conclusiones
 
 De acuerdo al conjunto de datos a utilizar en un proyecto de Big Data, es necesario tener un conocimiento previo del área a tratar o bien requerir de los servicios de un experto, pues de esta forma es posible obtener la mejor información posible para mejorar algún sistema o satisfacer las necesidades de un cliente.
