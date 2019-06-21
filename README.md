@@ -82,9 +82,6 @@ Una de las complicaciones notables fue notar después de una larga espera de los
 
 ### Un resultado
 
-|Cri|Cri|Cri|Cri|Cri||
-|----|------|----|---|----------|
-|1|1|1|1|1|
 
 ## Conclusión
 
