@@ -106,9 +106,12 @@ Luego con esto, se obtuvieron los Top 100 libros para cada mes y año respectivo
 //Detail* the results of the project. Different projects will have different types of results; e.g., run-times or result sizes, evaluation of the methods you're comparing, the interface of the system you've built, and/or some of the results of the data analysis you conducted.//
 
 // Mostrar tamaño de cada tabla y ejemplos de los resultados importantes
-## Conclusión
+## Conclusiones
 
 // explicar que es díficil ser creativo :/  trabajar con grandes datos requiere mucho tiempo e importante preocuparse del buen formato de los datos
+
+De acuerdo al conjunto de datos a utilizar en un proyecto de Big Data, es necesario tener un conocimiento previo del área a tratar o bien requerir de los servicios de un experto, pues de esta forma es posible obtener la mejor información posible para mejorar algún sistema o satisfacer las necesidades de un cliente.
+
 
 
 //Summarise main lessons learnt. What was easy? What was difficult? What could have been done better or more efficiently?//
